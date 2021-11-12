@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Glossary : MonoBehaviour
-{
-	private bool b =false;
-	public GameObject Hosni;
+{	
+    public GameObject Hosni;
 	public GameObject Beard;
 	public GameObject Hair;
 	public GameObject Face;
